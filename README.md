@@ -4,6 +4,8 @@ An interactive Tableau dashboard analysing sales, profit and orders for a US ret
 
 ![Superstore dashboard](superstore-dashboard.png)
 
+**Live interactive dashboard:** [Open on Tableau Public](https://public.tableau.com/app/profile/komal.joshi8193/viz/assignment_17885349413520/Dashboard1)
+
 ## What the dashboard shows
 
 - **KPI cards:** total sales, profit margin and return rate
@@ -34,7 +36,7 @@ An interactive Tableau dashboard analysing sales, profit and orders for a US ret
 
 ## Notes
 
-- Built with Tableau on the public Superstore sales dataset, not company data.
+- Built as a course project in Tableau, using the public Superstore sales dataset. It is practice work, not company data.
 - The map shows "3 unknown" because Tableau could not match three locations to a state.
 
 ## Files
